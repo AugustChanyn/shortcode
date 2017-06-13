@@ -4,7 +4,7 @@ import java.io.IOException;
  * Fibonacci Sequence Calculator
  * @author amardeepparhar
  * 	
- * Description: Enter a number and have the program generate the Fibonacci number.
+ * Description: Enter a number and have the program generate the Fibonacci number recursively.
  */
 public class fibonacci {
 
